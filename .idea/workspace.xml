@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83a0cb91-5e21-424d-b25e-015918f0ed3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/AgencyEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/CityEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/CommunityEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/HouseEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/HouseUserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/UserEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/UserMsgEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/com/source/code/inter/impl/InterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../proxy/src/com/source/code/proxy/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/source/SecurityApplication.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Downloads/apache-maven-3.6.2/repository" />
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="$USER_HOME$/Downloads/apache-maven-3.6.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZjxScZZdPF1hDEEuI9dKhMaE3Z" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.source.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.source.SecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SecurityApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83a0cb91-5e21-424d-b25e-015918f0ed3b" name="Default Changelist" comment="" />
+      <created>1585366305526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585366305526</updated>
+      <workItem from="1585366306845" duration="1088000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
