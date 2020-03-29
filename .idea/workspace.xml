@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83a0cb91-5e21-424d-b25e-015918f0ed3b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/AgencyEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/CityEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/CommunityEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/HouseEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/HouseUserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../house/house-common/src/main/java/com/house/common/entity/UserMsgEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxy/src/com/source/code/inter/impl/InterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../proxy/src/com/source/code/proxy/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/source/SecurityApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/source/SecurityApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="spring-beans.schema" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,7 +45,9 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -61,7 +57,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,8 +101,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585366305526</updated>
-      <workItem from="1585366306845" duration="2472000" />
+      <workItem from="1585366306845" duration="5275000" />
+      <workItem from="1585474845106" duration="414000" />
+      <workItem from="1585475391811" duration="1031000" />
     </task>
+    <task id="LOCAL-00001" summary="quthor : liuliu&#10;desible : haha">
+      <created>1585475829884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585475829885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,10 +123,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="quthor : liuliu&#10;desible : haha" />
+    <option name="LAST_COMMIT_MESSAGE" value="quthor : liuliu&#10;desible : haha" />
   </component>
 </project>
